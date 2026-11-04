@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36.233337"
+   height="37"
+   viewBox="0 0 36.233338 37"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-105.76666,-145)">
+    <circle
+       id="hint-size"
+       cx="114.26666"
+       cy="153.5"
+       style="fill:#285c78;fill-opacity:1;fill-rule:evenodd;stroke-width:1.0625"
+       r="8" />
+    <circle
+       id="normal"
+       cx="114.5"
+       cy="173.5"
+       style="fill:#304857;fill-opacity:1;fill-rule:evenodd;stroke:#b3b3b3;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+       r="7.25" />
+    <circle
+       id="checked"
+       cx="134.24998"
+       cy="174"
+       style="fill:#385768;fill-opacity:1;fill-rule:evenodd;stroke:#cccccc;stroke-width:1.5;stroke-dasharray:none;stroke-opacity:1"
+       r="7.25" />
+    <circle
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="symbol"
+       cx="124.99999"
+       cy="164"
+       r="3" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#checked"
+       id="hover"
+       transform="translate(-0.24999543,-19.75)" />
+  </g>
+</svg>
